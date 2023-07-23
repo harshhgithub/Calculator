@@ -26,12 +26,17 @@
     width:60px;
     height: 60px;
     border-radius: 10px;
-    box-shadow: -8px -8px 15px rgba(255, 225, 233, 0.1), 5px, 5px, 15px rgba(0,0,0,0.2);
+    box-shadow:8px 8px 15px rgba(0, 0, 0, 0.834);
     background: transparent;
     font-size: 20px;
     color: #fff;
     cursor:pointer;
     margin: 10px;
+}
+.calculator:hover{
+    background: #3a4452;
+    box-shadow: 8px 8px 15px rgb(0, 0, 0);
+    transition: 0.5s;
 }
 form .display{
     display: flex;
