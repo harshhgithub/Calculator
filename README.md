@@ -1,7 +1,7 @@
 # Calculator
 A basic calculator built using HTML and CSS.
 
-Live Demo: https://harshhgithub.github.io/Calculator/
+Live Demo:
 
 # Screenshots
 
